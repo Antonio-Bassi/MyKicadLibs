@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model EM250503V
+#/702268/703164/2.49/3/4/Connector
+DEF EM250503V J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "EM250503V" 650 200 50 H V L CNN
+F2 "EM250503V" 650 100 50 H I L CNN
+F3 "https://www.mouser.com/datasheet/2/87/Bus_Elx_DS_EM2505_Cage_Clamp-1066349.pdf" 650 0 50 H I L CNN
+F4 "EATON BUSSMANN SERIES - EM250503V - TB, WIRE TO BOARD, 3POS, 12AWG" 650 -100 50 H I L CNN "Description"
+F5 "15" 650 -200 50 H I L CNN "Height"
+F6 "Eaton" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "EM250503V" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "504-EM250503V" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Bussmann-Eaton/EM250503V?qs=9GX7soZQXxHT8JCLjyboSA%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "EM250503V" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/em250503v/eaton" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

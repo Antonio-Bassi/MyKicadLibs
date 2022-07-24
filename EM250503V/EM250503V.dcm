@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EM250503V
+D EATON BUSSMANN SERIES - EM250503V - TB, WIRE TO BOARD, 3POS, 12AWG
+K
+F https://www.mouser.com/datasheet/2/87/Bus_Elx_DS_EM2505_Cage_Clamp-1066349.pdf
+$ENDCMP
+#
+#End Doc Library
