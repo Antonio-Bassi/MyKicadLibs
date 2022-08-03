@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESY108M050AM2AA"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-06-11:25:03)
+    (mountForm default
+        (footprintRef "CAPPRD750W80D1600H3400")
+        (spec "System")
+    )
+)

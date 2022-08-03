@@ -1,0 +1,18 @@
+.ESY108M050AM2AA :1 ;Aluminium Electrolytic Capacitors - Radial Leaded 50V 1000uF 105C 5k Hour Radial
+CAPPRD750W80D1600H3400
+*STM C
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN ESY108M050AM2AA
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (ESY108M050AM2AA)
+~!Mouser Part Number (80-ESY108M050AM2AA)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/ESY108M050AM2AA?qs=gt1LBUVyoHk44D4L%2Fuik3Q%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.kemet.com/specsheet/ESY108M050AM2AA)
+~!Height (34mm)
+~!3D_Model (ESY108M050AM2AA)
+ESY108M050AM2AA
+1.1!U 2.1!U 

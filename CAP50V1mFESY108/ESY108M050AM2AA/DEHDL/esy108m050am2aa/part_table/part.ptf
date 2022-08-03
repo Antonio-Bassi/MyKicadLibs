@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESY108M050AM2AA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "ESY108M050AM2AA" (!) = "", "CAPPRD750W80D1600H3400", "Capacitor, Polarized Radial Diameter", "80-ESY108M050AM2AA", "https://www.mouser.co.uk/ProductDetail/KEMET/ESY108M050AM2AA?qs=gt1LBUVyoHk44D4L%2Fuik3Q%3D%3D", "", "", "Aluminium Electrolytic Capacitors - Radial Leaded 50V 1000uF 105C 5k Hour Radial", "https://www.kemet.com/specsheet/ESY108M050AM2AA", "34 mm"
+END_PART
+
+END.
